@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Carousel-Less/static/css/main.23a8f640.css",
+    "main.js": "/React-Carousel-Less/static/js/main.50b11191.js",
+    "static/media/gforest.jpg": "/React-Carousel-Less/static/media/gforest.84b8fc3933e0b8bc92ed.jpg",
+    "static/media/forest.jpg": "/React-Carousel-Less/static/media/forest.666f867ef59d6774c1a3.jpg",
+    "static/media/fforest.jpg": "/React-Carousel-Less/static/media/fforest.5acedec9c4ee9953bd51.jpg",
+    "index.html": "/React-Carousel-Less/index.html",
+    "main.23a8f640.css.map": "/React-Carousel-Less/static/css/main.23a8f640.css.map",
+    "main.50b11191.js.map": "/React-Carousel-Less/static/js/main.50b11191.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a8f640.css",
+    "static/js/main.50b11191.js"
+  ]
+}
